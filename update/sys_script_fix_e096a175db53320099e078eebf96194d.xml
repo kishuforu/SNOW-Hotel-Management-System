@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <before>false</before>
+        <description>call the get function, which rolls several commands&#13;
+together: setLimit(1), query, and next, skipping up to three&#13;
+lines. If you pass through a single parameter, get will assume it is a&#13;
+sys_id, allowing you to grab a record with little fuss. If you give two&#13;
+parameters, the first allows you to specify the field, the second the&#13;
+value. This is a real timesaver. Consider the following code snippet:</description>
+        <flush_cache>false</flush_cache>
+        <name>Script : use gr.get() function</name>
+        <run_once>true</run_once>
+        <script><![CDATA[var gr = new GlideRecord('x_130911_hotel_check_in');
+gr.get('guest.name', 'Alice Richards');
+gs.log(gr.sys_created_on + '');
+]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-12 13:27:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>e096a175db53320099e078eebf96194d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Script : use gr.get() function</sys_name>
+        <sys_package display_value="Hotel" source="x_130911_hotel">8e94c2aadb03320099e078eebf9619c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">8e94c2aadb03320099e078eebf9619c8</sys_scope>
+        <sys_update_name>sys_script_fix_e096a175db53320099e078eebf96194d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-12 13:28:40</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
