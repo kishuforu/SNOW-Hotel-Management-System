@@ -8,22 +8,20 @@
         <name>Script : use gr.addQuery </name>
         <run_once>true</run_once>
         <script><![CDATA[var results = [];
+var field2fetch = 'comments';
 var gr = new GlideRecord('x_130911_hotel_check_in');
-gr.addQuery('guest.name', 'CONTAINS', 'Alice');
-gr.addQuery('room.number','=',101)
-//gr.setLimit(2);
-//gr.orderByDesc('sys_created_on');
+gr.addQuery('guest.name', 'CONTAINS', 'Subhashish');
 gr.query();
 while(gr.next()) {
-results.push(gr.comments + '');
+results.push(gr[field2fetch] + ''); //here field can be accessed gr.comment
 }
 gs.log(results.join(', '));]]></script>
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-10 09:50:35</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>a20f5e05db13320099e078eebf961928</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Script : use gr.addQuery </sys_name>
         <sys_package display_value="Hotel" source="x_130911_hotel">8e94c2aadb03320099e078eebf9619c8</sys_package>
         <sys_policy/>
@@ -31,7 +29,7 @@ gs.log(results.join(', '));]]></script>
         <sys_scope display_value="Hotel">8e94c2aadb03320099e078eebf9619c8</sys_scope>
         <sys_update_name>sys_script_fix_a20f5e05db13320099e078eebf961928</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-12 13:21:32</sys_updated_on>
+        <sys_updated_on>2017-06-13 14:07:37</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>
