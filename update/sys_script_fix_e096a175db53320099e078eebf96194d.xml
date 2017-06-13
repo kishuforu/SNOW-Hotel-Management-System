@@ -19,7 +19,7 @@ gs.log(gr.sys_created_on + '');
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-12 13:27:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e096a175db53320099e078eebf96194d</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Script : use gr.get() function</sys_name>

@@ -47,7 +47,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 07:46:37</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>f9596e88dbd3320099e078eebf96192c</sys_id>
+        <sys_id>0b1c6106db57320099e078eebf961931</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Reservation</sys_name>
         <sys_package display_value="Hotel" source="x_130911_hotel">8e94c2aadb03320099e078eebf9619c8</sys_package>
@@ -55,8 +55,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Hotel">8e94c2aadb03320099e078eebf9619c8</sys_scope>
         <sys_update_name>sys_dictionary_x_130911_hotel_m2m_guests_reservations_reservation</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-07 07:46:37</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-13 08:27:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

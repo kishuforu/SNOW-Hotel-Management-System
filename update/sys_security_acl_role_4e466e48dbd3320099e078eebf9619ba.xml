@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 07:33:15</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>4e466e48dbd3320099e078eebf9619ba</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_130911_hotel_reservation.x_130911_hotel_reservation_user</sys_name>

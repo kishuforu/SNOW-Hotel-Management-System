@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-07 13:52:13</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>1d0dfb8cdb17320099e078eebf96190c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>ScopedGlideRecord</sys_name>
