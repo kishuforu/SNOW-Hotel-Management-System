@@ -58,11 +58,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-03 06:59:48</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
+            <sys_created_on>2017-06-14 09:57:04</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>1948bdf6db03320099e078eebf9619ae</sys_id>
+            <sys_id>495a8316db13320099e078eebf961978</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_130911_hotel_check_in</sys_name>
             <sys_package display_value="Hotel" source="x_130911_hotel">8e94c2aadb03320099e078eebf9619c8</sys_package>
@@ -71,8 +71,8 @@
             <sys_scope display_value="Hotel">8e94c2aadb03320099e078eebf9619c8</sys_scope>
             <sys_update_name>sys_ui_list_x_130911_hotel_check_in_x_130911_hotel_room_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-03 06:59:48</sys_updated_on>
-            <sys_user display_value="Rajkishor Prasad">6816f79cc0a8016401c5a33be04be441</sys_user>
+            <sys_updated_on>2017-06-14 09:57:04</sys_updated_on>
+            <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_list>
