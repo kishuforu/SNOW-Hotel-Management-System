@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_130911_hotel_check_in</collection>
+        <condition>current.room.changes() || current.date.changes()||current.operation()=='insert'</condition>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Stop Duplicate Check-ins</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	/*Condition : This rule will fire if the Room field changes or if the Date field changes.
+	*Also, there is an additional check to see if the record is being inserted.
+	*If you start with a completely blank record and insert it, then date and room fields will
+	*both change from nothing to something, but it is possible to "copy" a record (using Insert
+	*and stay).In this edge case, you may end up with a record being inserted without any field
+	*changing.
+	*/
+	
+	var dup = new GlideRecord('x_130911_hotel_check_in');
+	dup.addQuery('room',current.room);
+	dup.addQuery('date',current.date);
+	dup.setLimit(1);
+	dup.query();
+	
+	if(dup.next())
+	{
+		gs.addErrorMessage("This Room is Already Checked-in on this Date.");
+		current.setAbortAction(true);
+	}
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-14 12:52:58</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2399ebdadb13320099e078eebf96190a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Stop Duplicate Check-ins</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hotel" source="x_130911_hotel">8e94c2aadb03320099e078eebf9619c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">8e94c2aadb03320099e078eebf9619c8</sys_scope>
+        <sys_update_name>sys_script_2399ebdadb13320099e078eebf96190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-14 13:14:10</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=2399ebdadb13320099e078eebf96190a"/>
+</record_update>
