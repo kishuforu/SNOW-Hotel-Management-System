@@ -3,7 +3,7 @@
     <element label="Check-in" max_length="40" name="x_130911_hotel_check_in" type="collection">
         <element label="Comments" max_length="500" name="comments" type="string"/>
         <element label="Date" max_length="40" name="date" type="glide_date"/>
-        <element dynamic_creation="true" label="Guest" max_length="32" name="guest" reference="x_130911_hotel_guest" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element label="Guest" max_length="32" name="guest" reference="x_130911_hotel_guest" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
         <element label="Room" max_length="32" name="room" reference="x_130911_hotel_room" type="reference"/>
         <index name="index">
             <element name="guest"/>
