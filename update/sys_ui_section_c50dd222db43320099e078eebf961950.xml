@@ -5,13 +5,13 @@
             <element>user_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>5b9d52a2db43320099e078eebf96196c</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>d7dec549db63320099e078eebf9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>first_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>db9d52a2db43320099e078eebf96196c</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>5bdec549db63320099e078eebf9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>last_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>5f9d52a2db43320099e078eebf96196c</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>dbdec549db63320099e078eebf9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>membership_number</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>df9d52a2db43320099e078eebf96196c</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>5fdec549db63320099e078eebf9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>title</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>539d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>dfdec549db63320099e078eebf9619b1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>department</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>d39d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>53dec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>user_password</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>579d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>d3dec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>password_needs_reset</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>d79d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>57dec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>locked_out</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>5b9d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>d7dec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>active</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>db9d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>5bdec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>web_service_access_only</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>5f9d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>dbdec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>internal_integration_user</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>df9d52a2db43320099e078eebf96196d</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>5fdec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>.split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>539d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>dfdec549db63320099e078eebf9619b2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>email</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>d39d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>53dec549db63320099e078eebf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>notification</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>579d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>d3dec549db63320099e078eebf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -215,13 +215,13 @@
             <element>calendar_integration</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>d79d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>57dec549db63320099e078eebf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -229,13 +229,13 @@
             <element>time_zone</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>5b9d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>d7dec549db63320099e078eebf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -243,13 +243,13 @@
             <element>phone</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>db9d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>5bdec549db63320099e078eebf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -257,13 +257,13 @@
             <element>mobile_phone</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>5f9d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>dbdec549db63320099e078eebf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -271,55 +271,69 @@
             <element>photo</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>df9d52a2db43320099e078eebf96196e</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>5fdec549db63320099e078eebf9619b3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vip</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>dfdec549db63320099e078eebf9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>20</position>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>539d52a2db43320099e078eebf96196f</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>53dec549db63320099e078eebf9619b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>date_format</element>
-            <position>21</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>d39d52a2db43320099e078eebf96196f</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>d3dec549db63320099e078eebf9619b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>manager</element>
-            <position>22</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-02 15:04:29</sys_created_on>
-            <sys_id>579d52a2db43320099e078eebf96196f</sys_id>
+            <sys_created_on>2017-06-22 14:00:56</sys_created_on>
+            <sys_id>57dec549db63320099e078eebf9619b4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_130911_hotel_guest" sys_domain="global" view="Default view">c50dd222db43320099e078eebf961950</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:04:29</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -335,7 +349,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c50dd222db43320099e078eebf961950</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_130911_hotel_guest</sys_name>
             <sys_overrides/>
             <sys_package display_value="Hotel" source="x_130911_hotel">8e94c2aadb03320099e078eebf9619c8</sys_package>
@@ -344,7 +358,7 @@
             <sys_scope display_value="Hotel">8e94c2aadb03320099e078eebf9619c8</sys_scope>
             <sys_update_name>sys_ui_section_c50dd222db43320099e078eebf961950</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-02 15:01:52</sys_updated_on>
+            <sys_updated_on>2017-06-22 14:00:56</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

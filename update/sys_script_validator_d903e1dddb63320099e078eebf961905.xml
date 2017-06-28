@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_validator">
+    <sys_script_validator action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Custom Validation Script to Validate Date Values</description>
+        <internal_type>glide_date</internal_type>
+        <sys_class_name>sys_script_validator</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-23 10:13:20</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d903e1dddb63320099e078eebf961905</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide_date</sys_name>
+        <sys_package display_value="Hotel" source="x_130911_hotel">8e94c2aadb03320099e078eebf9619c8</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Hotel">8e94c2aadb03320099e078eebf9619c8</sys_scope>
+        <sys_update_name>sys_script_validator_d903e1dddb63320099e078eebf961905</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-23 10:13:20</sys_updated_on>
+        <validator><![CDATA[function validate(value) 
+{ 
+    if(!value)
+	{
+	   return true;
+	}
+	if(getDateFromFormat(value,g_user_date_format)!=0)
+	{
+		return true;
+	}
+	return "Invalid date format. Please use " + g_user_date_format;
+}]]></validator>
+    </sys_script_validator>
+</record_update>
